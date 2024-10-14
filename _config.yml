@@ -1,2 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
 title: Liz Hughes
+remote_theme: pages-themes/cayman@v0.2.0
+nav:
+  - Linkedin https://www.linkedin.com/in/lizh7613/
+  - Github https://github.com/lizh7613
+  - Download CV /CV.pdf
