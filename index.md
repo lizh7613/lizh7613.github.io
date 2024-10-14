@@ -11,7 +11,7 @@ Currently studying computer science at the University of Dundee.
 
 Customer Service  
 Inventory Management Systems  
-Hardware Assembly
+Hardware Assembly  
 C  
 MATLAB  
 
