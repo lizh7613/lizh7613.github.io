@@ -3,9 +3,6 @@ layout: default
 title: Liz Hughes
 show_downloads: true
 ---
-===
-Test
-===
 ## About Me
 
 Currently studying computer science at the University of Dundee.
