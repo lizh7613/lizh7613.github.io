@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liz Hughes
+show_downloads: true
 ---
 ## About Me
 
