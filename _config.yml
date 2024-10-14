@@ -1,5 +1,5 @@
 title: Liz Hughes
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "github/cayman"
 nav:
   - name: "LinkedIn"
     url: "https://www.linkedin.com/in/lizh7613/"
