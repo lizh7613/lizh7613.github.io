@@ -9,10 +9,10 @@ Currently studying computer science at the University of Dundee.
 
 ## Skills
 
-Customer Service
-Inventory Management Systems
-C
-MATLAB
+Customer Service  
+Inventory Management Systems  
+C  
+MATLAB  
 
 ## Projects
 
